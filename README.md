@@ -34,7 +34,7 @@
 </div>
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoroushRF&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=SoroushRF&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 <br />
 
@@ -71,16 +71,16 @@
   <h3>📫 Connect with Me</h3>
   <p>
     <a href="mailto:soroushraouf44@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" />
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
     </a>
     <a href="https://www.linkedin.com/in/soroush-baraouf/">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
     <a href="https://devpost.com/srf84">
-      <img src="https://skillicons.dev/icons?i=devpost" />
+      <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" height="50" alt="Devpost" />
     </a>
     <a href="https://discordapp.com/users/702956731789082696">
-      <img src="https://skillicons.dev/icons?i=discord" />
+      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
     </a>
   </p>
 </div>
