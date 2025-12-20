@@ -1,7 +1,7 @@
 <!-- Header with Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+SoroushRF;Building+Next-Gen+Web+Apps;Integrating+AI+with+Everyday+Life;Python+%2B+React+%2B+Gemini+API" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=%20Hi+there!+%F0%9F%91%8B+I%27m+SoroushRF%20" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 <!-- About Me Section -->
 <div align="center">
-  I specialize in building full-stack applications that leverage modern frameworks and AI. My recent work involves integrating the <b>Gemini API</b> into practical tools, bridging the gap between complex AI models and user-friendly interfaces.
+  I specialize in building full-stack applications that leverage modern frameworks and AI. My recent work involves integrating the <b>Gemini API</b> into practical tools, bridging the gap between [...]
 </div>
 <br />
 
