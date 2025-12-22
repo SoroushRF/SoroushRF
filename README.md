@@ -1,7 +1,7 @@
 <!-- Header with Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=%20Hi+there!+%F0%9F%91%8B+I%27m+SoroushRF%20" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=%20Hi+there!+%F0%9F%91%8B+I%27m+Soroush" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 <!-- About Me Section -->
 <div align="center">
-  I specialize in building full-stack applications that leverage modern frameworks and AI. My recent work involves integrating the <b>Gemini API</b> into practical tools, bridging the gap between complexity and usability.
+  I specialize in building full-stack applications that leverage modern frameworks and AI. My recent work involves integrating the <b>Gemini API</b> into practical tools, bridging the gap between cutting-edge technology and user needs.
 </div>
 <br />
 
@@ -34,7 +34,7 @@
 </div>
 <div align="center">
   <br />
-  <img src="https://streak-stats.demolab.com/?user=SoroushRF&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoroushRF&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 <br />
 
