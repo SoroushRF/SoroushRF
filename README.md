@@ -34,7 +34,6 @@
 </div>
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoroushRF&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 <br />
 
