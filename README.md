@@ -1,91 +1,69 @@
-<!-- Header with Typing Effect -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=%20Hi+there!+%F0%9F%91%8B+I%27m+Soroush" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=280&section=header&text=Soroush%20RF&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Architect%20%7C%20AI%20Systems%20Engineer&descAlignY=51&descAlign=60" />
 </div>
 
 <div align="center">
-  <h3>🚀 Full Stack Developer | AI Enthusiast | Builder</h3>
-  <br />
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
 </div>
 
-<!-- About Me Section -->
-<div align="center">
-  I specialize in building full-stack applications that leverage modern frameworks and AI. My recent work involves integrating the <b>Gemini API</b> into practical tools, bridging the gap between cutting-edge technology and user needs.
-</div>
-<br />
+## 🚀 About Me
 
-<!-- Tech Stack Icons -->
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,js,html,react,flask,fastapi,docker,tailwind,vite,git&perline=10" />
-    </a>
-  </p>
-</div>
-<br />
+I architect and deploy **high-performance, AI-native applications** with a focus on type safety, edge computing, and extreme reliability. My engineering philosophy revolves around the **Testing Trophy**—prioritizing deep integration and E2E suites to ensure production-grade stability.
 
-<!-- Github Stats & Streak -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoroushRF&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushRF&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-<div align="center">
-  <br />
-</div>
-<br />
+- 🤖 **AI Specialization:** Building multimodal pipelines using **Gemini 2.5** for automated reasoning and data extraction.
+- ☁️ **Cloud Native:** Designing serverless, edge-first architectures with **Go**, **Next.js 15**, and **Supabase**.
+- 🛡️ **Security First:** Implementing robust **Row Level Security (RLS)** and identity management to ensure data sovereignty.
 
-<!-- Featured Projects -->
-<h3 align="center">⚡ Featured Projects</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/SoroushRF/HawkEye">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SoroushRF&repo=HawkEye&theme=tokyonight&hide_border=true" />
-        </a>
-        <br />
-        <b>🦅 HawkEye</b>
-        <br />
-        Post on eBay like Instagram. Built with Flask, Docker, and Gemini API.
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/SoroushRF/Pareto">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SoroushRF&repo=Pareto&theme=tokyonight&hide_border=true" />
-        </a>
-        <br />
-        <b>🎓 Pareto</b>
-        <br />
-        "Assignments are meant to be skipped!" Built with FastAPI, React, and Vite.
-      </td>
-    </tr>
-  </table>
-</div>
-<br />
+---
 
-<!-- Connect with Me -->
+## 🛠️ The Stack
+
 <div align="center">
-  <h3>📫 Connect with Me</h3>
-  <p>
-    <a href="mailto:soroushraouf44@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/soroush-baraouf/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://devpost.com/srf84">
-      <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" />
-    </a>
-    <a href="https://discordapp.com/users/702956731789082696">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-  </p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framer,threejs" /><br>
+  <img src="https://skillicons.dev/icons?i=go,py,fastapi,supabase,postgres,docker" /><br>
+  <img src="https://skillicons.dev/icons?i=vitest,playwright,githubactions,vercel,auth0,stripe" />
 </div>
 
-<!-- Footer -->
-<br />
+---
+
+## 💎 Engineering Showcases
+
+### 🌥️ [Stratus](https://github.com/soroushrf/stratus) | AI-Powered Context Engine
+A sophisticated weather and attire intelligence platform.
+- **Hybrid Service Pattern:** Implements a robust weather service with automatic fallbacks between live API data and deterministic mocks.
+- **AI Logic:** Multimodal extraction of university schedules via Gemini 2.5 Flash.
+- **Tech:** Next.js 15, Supabase, Auth0, Vitest, Playwright.
+
+### ⚖️ [Vantage](https://github.com/soroushrf/vantage) | High-Performance Go Backend
+An enterprise-grade audit and governance system.
+- **Audit Engine:** Features an asynchronous worker for telemetry processing and custom middleware for system governance.
+- **Tech:** Go (Golang), PostgreSQL, Prometheus/Grafana.
+
+### 📊 [Pareto](https://github.com/soroushrf/pareto) | Intelligent Syllabus Dashboard
+Automated academic efficiency tool.
+- **Core Intelligence:** Uses multimodal LLMs to parse complex academic syllabi into actionable performance dashboards.
+- **Tech:** FastAPI, React, Tailwind CSS.
+
+---
+
+## 📊 Analytics & Impact
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SoroushRF&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=soroushrf&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soroushrf&layout=compact&theme=tokyonight" height="195" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soroushrf&theme=transparent&background=00000000&stroke=30363d&fire=58a6ff&ring=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <p><b>Interested in technical collaboration?</b></p>
+  <sub>"Quality is not an act, it is a habit." — Stratus Philosophy</sub>
 </div>
